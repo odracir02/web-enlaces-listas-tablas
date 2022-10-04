@@ -1,0 +1,32 @@
+#navbar {
+    background-color: black;
+    height: 4em;
+    padding: 1em;
+}
+
+.navbar__item {
+    color: white;
+    font-weight: bold;
+    font-size: 1.7em;
+    display: inline-block;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.navbar__item:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+.navbar__item-image {
+    width: 50px;
+}
+
+.navbar__item-image:hover {
+    cursor: pointer;
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+}

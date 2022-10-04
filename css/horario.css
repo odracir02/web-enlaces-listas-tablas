@@ -1,0 +1,15 @@
+main {
+    padding: 30px;
+}
+
+td {
+    border: 1px solid lightgrey;
+}
+
+th {
+    width: 100px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background-color: lightblue;
+    text-align: center;
+}
